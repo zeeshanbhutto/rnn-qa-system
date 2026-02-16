@@ -1,5 +1,14 @@
 # RNN Question Answering System
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-orange)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+![AWS](https://img.shields.io/badge/AWS-EC2-yellow)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+
 Production-ready Question Answering API built with PyTorch, FastAPI, Docker, and Streamlit.
 
 ---
