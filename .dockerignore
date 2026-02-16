@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+myenv/
+
+# Git
+.git/
+.gitignore
+
+# Notebooks
+.ipynb_checkpoints/
+
+# ML / AI junk
+data/
+datasets/
+models/
+embeddings/
+*.pt
+*.pth
+*.h5
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db

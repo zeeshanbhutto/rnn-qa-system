@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.env
+myenv/
+venv/
+.env.local
+
+# Docker
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
