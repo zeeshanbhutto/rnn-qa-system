@@ -48,7 +48,7 @@ st.markdown('<div class="subtitle">Ask any question and let the model answer it 
 # -----------------------------
 import os
 
-API_URL = os.getenv("API_URL", "http://localhost:8000/predict")
+API_URL = os.getenv("API_URL", "http://98.84.179.35:8000/predict")
 
 
 # -----------------------------
